@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.caixa-da-imagem {
+    margin-left: 35%;
+}
+
+.caixa-mãe {
+    background-color: #FFDBE9;
+}
+
+.button {
+    width: 180px;
+    height: 60px;
+    cursor: pointer;
+    font-weight: bolder;
+    margin-left: 43%;
+    margin-top: 5%;
+    background: #91C9FF;
+    border: 1px solid;
+    outline: none;
+    border-radius: 20px;
+font-size: 20px;
+}
+
+.caixa-texto {
+    margin-left: 42%;
+}
+
+form{
+   margin-left: 38%;
+}
